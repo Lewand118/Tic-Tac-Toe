@@ -1,0 +1,35 @@
+﻿  Block.cpp
+  BlockO.cpp
+  BlockX.cpp
+  EmptyBlock.cpp
+  WinBlock.cpp
+  Window.cpp
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(5,18): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(5,18): warning C4244:         with
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(5,18): warning C4244:         [
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(5,18): warning C4244:             T=float
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(5,18): warning C4244:         ]
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(10,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(78,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(118,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(122,13): warning C4018: '<': signed/unsigned mismatch
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(125,13): warning C4018: '<': signed/unsigned mismatch
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(143,13): warning C4018: '<': signed/unsigned mismatch
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(146,13): warning C4018: '<': signed/unsigned mismatch
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(160,12): warning C4018: '<': signed/unsigned mismatch
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(160,32): warning C4018: '<': signed/unsigned mismatch
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(163,12): warning C4018: '<': signed/unsigned mismatch
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(163,32): warning C4018: '<': signed/unsigned mismatch
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(175,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(178,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(189,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(190,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(220,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Window.cpp(222,21): warning C4018: '<': signed/unsigned mismatch
+  Tic Tac Toe.vcxproj -> D:\Programowanie\Programowanie_projekty\SFML\Kółko i krzyżyk\Tic Tac Toe\Debug\Tic Tac Toe.exe
